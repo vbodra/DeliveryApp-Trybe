@@ -1,9 +1,12 @@
-# DeliveryApp-Trybe
-
-Vinicius fez a integração do fluxo do cliente com a pessoa vendedora
-fez o fluxo da pessoa vendedora completo e juntou com o do cliente que estava pronto
-
 # Delivery App
+
+---
+
+## Como acessar a aplicação
+
+Basta acessar [esse link](https://delivery-app-trybe-group17.herokuapp.com/).
+
+---
 
 Projeto realizado por:
  - [Vinicius Bodra](https://www.linkedin.com/in/vinicius-bodra/);
@@ -36,15 +39,9 @@ Um mais elaborado, contendo mais informações sobre a aplicação, será dispon
 
 - ### Por mim
     - Desenvolvimento do fluxo da pessoa vendedora, tanto no frontend quanto no backend;
-    - Integração do fluxo da pessoa vendedora com a pessoa cliente;
+    - Integração do fluxo da pessoa vendedora com o(a) cliente;
 
 - ### Pela Equipe
     - Desenvolvimento do fluxo da pessoa cliente;
     - Desenvolvimento do fluxo da pessoa administradora;
     - Maior parte da estilização;
-
----
-
-## Como acessar a aplicação
-
-Basta acessar esse [link](https://delivery-app-trybe-group17.herokuapp.com/).
